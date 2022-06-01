@@ -28,9 +28,20 @@ aprendendo
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 
-oxi
+tempo de dedicação
 
-![KelvenBento's GitHub stats](https://github-readme-stats.vercel.app/api?username=KelvenBento&show_icons=true&theme=dracula)
+
+![KelvenBento's GitHub stats](https://github-readme-stats.vercel.app/api?username=KelvenBento&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvenBento&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+outros Softwares
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+
+
 
 
   
