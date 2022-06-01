@@ -28,8 +28,7 @@
 
 * __Estatísticas__
 
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=KelvenBento&show_icons=true&theme=radical"/>
-  <br>
+<img height="180em" align="left" margin-bottom="10em" src="https://github-readme-stats.vercel.app/api?username=KelvenBento&show_icons=true&theme=radical"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvenBento&layout=compact&theme=radical&(https://github.com/anuraghazra/github-readme-stats)"/>
 
 
