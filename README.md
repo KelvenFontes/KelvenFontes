@@ -33,6 +33,7 @@
   
 * __Utilização das Linguagens__
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvenBento&layout=compact&theme=radical&(https://github.com/anuraghazra/github-readme-stats)"/>
+  <br></br>
 
 <!--Contato-->
 <p align="center"><strong>Entre em contato!</strong><p>
