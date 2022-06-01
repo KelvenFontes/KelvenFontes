@@ -27,12 +27,12 @@
 
 
 * __Estatísticas__
-<div>
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KelvenBento&show_icons=true&theme=radical"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvenBento&layout=compact&theme=radical&(https://github.com/anuraghazra/github-readme-stats)"/>
+  <br></br>
   
- </div>
+* __Utilização das Linguagens__
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvenBento&layout=compact&theme=radical&(https://github.com/anuraghazra/github-readme-stats)"/>
 
 <!--Contato-->
 <p align="center"><strong>Entre em contato!</strong><p>
