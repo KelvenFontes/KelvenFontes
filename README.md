@@ -30,13 +30,21 @@
       <br>
       <br>
       <p>:man_technologist: O WaiterApp é um sistema que aprimora o processo de pedidos em restaurantes, constituída por um aplicativo mobile para garçons realizarem pedidos, uma versão web como dashboard para a cozinha gerenciar os pedidos e uma API que integra e sincroniza os dados entre as duas plataformas.</p>
+     </td>
+     <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/KelvenFontes/ReactGram">ReactGram</a></h2>
+      <img width="500px" src="https://github.com/KelvenFontes/ReactGram/assets/69438619/0c36142e-bdc9-4338-9821-217614db9396" />
+      <br>
+      <br>
+      <p>:man_technologist: O ReactGram é um aplicativo inspirado em redes sociais, utilizando React, Node.js e MongoDB. Permite compartilhar fotos, curtir e comentar postagens, possui registro e autenticação de usuários, perfis editáveis, busca de usuários/postagens e é responsivo e seguro. 📸💬🚀</p>
+       </td>
   </tr>
 </table>
 
 
 <h2>Estatísticas do GitHub</h2>
 
-<div>
+<div align="center">
   <img height="150em" alt="Statistics" src="https://github-readme-stats.vercel.app/api?username=KelvenFontes&show_icons=true&theme=radical"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvenFontes&layout=compact&theme=radical&(https://github.com/anuraghazra/github-readme-stats)"/>
 </div>
