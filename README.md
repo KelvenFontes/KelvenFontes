@@ -1,59 +1,45 @@
-## Olá! eu sou o Kelven 👋
+<h1 align="center">Olá! Eu sou o Kelven 👋</h1>
 
-<h3 align="center">Estudante de Desenvolvimento de Software e Multiplataformas<h3>
-<P align="center">Desenvolvedor FullStack</p>
+<h2>Sobre mim</h2>
+<p>Sou um desenvolvedor FullStack e estou cursando a faculdade de Desenvolvimento de Software e multplataformas pela Fatec Osasco. </p>
 
-* __FrontEnd__
+<h2>Tecnologias</h2>
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-
-* __BackEnd__
-  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-  
-* __Banco de Dados__
-  
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![mongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  
-* __Cloud__
-  
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-  
-* __Mobile__
-  
+![mongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  
-  
-* __Ferramenta de Desenvolvimento__
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-* __Outros__
-
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+<h2>Meus Projetos</h2>
 
-* __Estatísticas__
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KelvenFontes&show_icons=true&theme=radical"/>
-  <br></br>
-  
-* __Utilização das Linguagens__
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvenFontes&layout=compact&theme=radical&(https://github.com/anuraghazra/github-readme-stats)"/>
-  <br></br>
+<table>
+  <tr>
+     <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/KelvenFontes/WaiterApp">WaiterApp</a></h2>
+      <img width="500px" src="https://github.com/KelvenFontes/WaiterApp/assets/69438619/7665e884-6861-4d8c-9467-becd0fe769f2" />
+      <br>
+      <br>
+      <p>:man_technologist: O WaiterApp é um sistema que aprimora o processo de pedidos em restaurantes, constituída por um aplicativo mobile para garçons realizarem pedidos, uma versão web como dashboard para a cozinha gerenciar os pedidos e uma API que integra e sincroniza os dados entre as duas plataformas.</p>
+  </tr>
+</table>
+
+
+<h2>Estatísticas do GitHub</h2>
+
+<div>
+  <img height="150em" alt="Statistics" src="https://github-readme-stats.vercel.app/api?username=KelvenFontes&show_icons=true&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvenFontes&layout=compact&theme=radical&(https://github.com/anuraghazra/github-readme-stats)"/>
+</div>
 
 <!--Contato-->
 <p align="center"><strong>Entre em contato!</strong><p>
