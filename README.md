@@ -36,21 +36,28 @@
 <table>
   <tr>
      <td valign="top" width="50%">
-        <h2 align="center"><a href="https://github.com/KelvenFontes/WaiterApp">WaiterApp</a></h2>
-        <img width="500px" src="https://github.com/KelvenFontes/WaiterApp/assets/69438619/7665e884-6861-4d8c-9467-becd0fe769f2" />
-        <br>
-        <br>
-        <p>:man_technologist: O WaiterApp é um sistema que aprimora o processo de pedidos em restaurantes, constituída por um aplicativo mobile para garçons realizarem pedidos, uma versão web como dashboard para a cozinha gerenciar os pedidos e uma API que integra e sincroniza os dados entre as duas plataformas.</p>
-     </td>
-     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/KelvenFontes/TravelSystem">TripsWise</a></h2>
       <img width="500px" src="https://github.com/KelvenFontes/TravelSystem/assets/69438619/85bc744c-d70d-413a-a683-1ed2065a3a55" />
       <br>
       <br>
       <p>:man_technologist: TripsWise é uma plataforma completa para explorar destinos turísticos, personalizar viagens e fazer reservas seguras. Com autenticação fácil através do Google. Venha descobrir o mundo de forma inteligente!✈️</p>
        </td>
+      <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/KelvenFontes/EverGlow">EverGlow</a></h2>
+      <img width="500px" src="https://github.com/KelvenFontes/EverGlow/assets/69438619/6c7dbfe6-b3ad-4d20-baf5-4ec865ec8bfb" />
+      <br>
+      <br>
+      <p>:man_technologist: O EverGlow é uma aplicação que utiliza a API do Spotify para oferecer uma experiência única de descoberta e reprodução de música. Com este aplicativo, você pode explorar novas músicas, criar listas de reprodução personalizadas e curtir suas faixas favoritas. Curta sua música de forma diferente com o EverGlow!. 📸💬🚀</p>
+    </td>
   </tr>
   <tr>
+    <td valign="top" width="50%">
+        <h2 align="center"><a href="https://github.com/KelvenFontes/WaiterApp">WaiterApp</a></h2>
+        <img width="500px" src="https://github.com/KelvenFontes/WaiterApp/assets/69438619/7665e884-6861-4d8c-9467-becd0fe769f2" />
+        <br>
+        <br>
+        <p>:man_technologist: O WaiterApp é um sistema que aprimora o processo de pedidos em restaurantes, constituída por um aplicativo mobile para garçons realizarem pedidos, uma versão web como dashboard para a cozinha gerenciar os pedidos e uma API que integra e sincroniza os dados entre as duas plataformas.</p>
+     </td>
     <td valign="top" width="50%">
       <h2 align="center"><a href="https://github.com/KelvenFontes/ReactGram">ReactGram</a></h2>
       <img width="500px" src="https://github.com/KelvenFontes/ReactGram/assets/69438619/0c36142e-bdc9-4338-9821-217614db9396" />
@@ -58,13 +65,7 @@
       <br>
       <p>:man_technologist: O ReactGram é um aplicativo inspirado em redes sociais, utilizando React, Node.js e MongoDB. Permite compartilhar fotos, curtir e comentar postagens, possui registro e autenticação de usuários, perfis editáveis, busca de usuários/postagens e é responsivo e seguro. 📸💬🚀</p>
     </td>
-     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/KelvenFontes/EverGlow">EverGlow</a></h2>
-      <img width="500px" src="https://github.com/KelvenFontes/EverGlow/assets/69438619/6c7dbfe6-b3ad-4d20-baf5-4ec865ec8bfb" />
-      <br>
-      <br>
-      <p>:man_technologist: O EverGlow é uma aplicação que utiliza a API do Spotify para oferecer uma experiência única de descoberta e reprodução de música. Com este aplicativo, você pode explorar novas músicas, criar listas de reprodução personalizadas e curtir suas faixas favoritas. Curta sua música de forma diferente com o EverGlow!. 📸💬🚀</p>
-    </td>
+   
   </tr>
 </table>
 
