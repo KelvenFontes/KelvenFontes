@@ -58,6 +58,13 @@
       <br>
       <p>:man_technologist: O ReactGram é um aplicativo inspirado em redes sociais, utilizando React, Node.js e MongoDB. Permite compartilhar fotos, curtir e comentar postagens, possui registro e autenticação de usuários, perfis editáveis, busca de usuários/postagens e é responsivo e seguro. 📸💬🚀</p>
     </td>
+     <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/KelvenFontes/EverGlow">EverGlow</a></h2>
+      <img width="500px" src="https://github.com/KelvenFontes/ReactGram/assets/69438619/0c36142e-bdc9-4338-9821-217614db9396" />
+      <br>
+      <br>
+      <p>:man_technologist: O EverGlow é uma aplicação que utiliza a API do Spotify para oferecer uma experiência única de descoberta e reprodução de música. Com este aplicativo, você pode explorar novas músicas, criar listas de reprodução personalizadas e curtir suas faixas favoritas. Curta sua música de forma diferente com o EverGlow!. 📸💬🚀</p>
+    </td>
   </tr>
 </table>
 
