@@ -66,59 +66,41 @@
 
 🚀 Aqui estão alguns dos meus principais projetos. Clique no nome para acessar o repositório e saber mais!  
 
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-  <div style="flex: 1; min-width: 50px;">
-    <h3 align="center">
-      🛫 <a href="https://github.com/KelvenFontes/TravelSystem" style="color:#66D9EF;">TripsWise</a>
-    </h3>
-    <a href="https://github.com/KelvenFontes/TravelSystem">
-      <img width="80%" src="https://github.com/KelvenFontes/TravelSystem/assets/69438619/85bc744c-d70d-413a-a683-1ed2065a3a55"/>
-    </a>
-    <p align="center">✈️ <strong style="color:#66D9EF;">TripsWise</strong> é uma plataforma para explorar destinos, personalizar roteiros e realizar reservas.</p>
-    <p align="center"><strong style="color:#66D9EF;">📌 Tecnologias:</strong> Next.js, Node.js, TypeScript, TailwindCSS, MongoDB.</p>
-  </div>
-
-  <div style="flex: 1; min-width: 50px;">
-    <h3 align="center">
-      🎵 <a href="https://github.com/KelvenFontes/EverGlow" style="color:#66D9EF;">EverGlow</a>
-    </h3>
-    <a href="https://github.com/KelvenFontes/EverGlow">
-      <img width="80%" src="https://github.com/KelvenFontes/EverGlow/assets/69438619/6c7dbfe6-b3ad-4d20-baf5-4ec865ec8bfb"/>
-    </a>
-    <p align="center">🎶 <strong style="color:#66D9EF;">EverGlow</strong> integração da API do Spotify para descoberta e reprodução de músicas.</p>
-    <p align="center"><strong style="color:#66D9EF;">📌 Tecnologias:</strong> React, Node.js, TypeScript, Spotify API, Styled-Components.</p>
-  </div>
-</div>
-
-<hr style="height:2px; border:none; background-color:#666; margin-top:10px; margin-bottom:10px;">
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-  <div style="flex: 1; min-width: 50px;">
-    <h3 align="center">
-      🍽️ <a href="https://github.com/KelvenFontes/WaiterApp" style="color:#66D9EF;">WaiterApp</a>
-    </h3>
-    <a href="https://github.com/KelvenFontes/WaiterApp">
-      <img width="80%" src="https://github.com/KelvenFontes/WaiterApp/assets/69438619/7665e884-6861-4d8c-9467-becd0fe769f2"/>
-    </a>
-    <p align="center">🍔 <strong style="color:#66D9EF;">WaiterApp</strong> é um sistema para restaurantes que otimiza pedidos, integrando um aplicativo para garçons e um dashboard web para a cozinha.</p>
-    <p align="center"><strong style="color:#66D9EF;">📌 Tecnologias:</strong> React Native, Node.js, MongoDB, WebSockets.</p>
-  </div>
-
-  <div style="flex: 1; min-width: 50px;">
-    <h3 align="center">
-      📸 <a href="https://github.com/KelvenFontes/ReactGram" style="color:#66D9EF;">ReactGram</a>
-    </h3>
-    <a href="https://github.com/KelvenFontes/ReactGram">
-      <img width="80%" src="https://github.com/KelvenFontes/ReactGram/assets/69438619/0c36142e-bdc9-4338-9821-217614db9396"/>
-    </a>
-    <p align="center">📷 <strong style="color:#66D9EF;">ReactGram</strong> é uma aplicação estilo rede social, onde usuários podem compartilhar fotos, curtir postagens, comentar e interagir.</p>
-    <p align="center"><strong style="color:#66D9EF;">📌 Tecnologias:</strong> React, Node.js, MongoDB, JWT, Styled-Components.</p>
-  </div>
-
-</div>
+<table>
+  <tr>
+     <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/KelvenFontes/TravelSystem">TripsWise</a></h2>
+      <img width="500px" src="https://github.com/KelvenFontes/TravelSystem/assets/69438619/85bc744c-d70d-413a-a683-1ed2065a3a55" />
+      <br>
+      <br>
+      <p>:man_technologist: TripsWise é uma plataforma completa para explorar destinos turísticos, personalizar viagens e fazer reservas seguras. Com autenticação fácil através do Google. Venha descobrir o mundo de forma inteligente!✈️</p>
+       </td>
+      <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/KelvenFontes/EverGlow">EverGlow</a></h2>
+      <img width="500px" src="https://github.com/KelvenFontes/EverGlow/assets/69438619/6c7dbfe6-b3ad-4d20-baf5-4ec865ec8bfb" />
+      <br>
+      <br>
+      <p>:man_technologist: O EverGlow é uma aplicação que utiliza a API do Spotify para oferecer uma experiência única de descoberta e reprodução de música. Com este aplicativo, você pode explorar novas músicas, criar listas de reprodução personalizadas e curtir suas faixas favoritas. Curta sua música de forma diferente com o EverGlow!. 🎵🎧🎶</p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+        <h2 align="center"><a href="https://github.com/KelvenFontes/WaiterApp">WaiterApp</a></h2>
+        <img width="500px" src="https://github.com/KelvenFontes/WaiterApp/assets/69438619/7665e884-6861-4d8c-9467-becd0fe769f2" />
+        <br>
+        <br>
+        <p>:man_technologist: O WaiterApp é um sistema que aprimora o processo de pedidos em restaurantes, constituída por um aplicativo mobile para garçons realizarem pedidos, uma versão web como dashboard para a cozinha gerenciar os pedidos e uma API que integra e sincroniza os dados entre as duas plataformas.</p>
+     </td>
+    <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/KelvenFontes/ReactGram">ReactGram</a></h2>
+      <img width="500px" src="https://github.com/KelvenFontes/ReactGram/assets/69438619/0c36142e-bdc9-4338-9821-217614db9396" />
+      <br>
+      <br>
+      <p>:man_technologist: O ReactGram é um aplicativo inspirado em redes sociais, utilizando React, Node.js e MongoDB. Permite compartilhar fotos, curtir e comentar postagens, possui registro e autenticação de usuários, perfis editáveis, busca de usuários/postagens e é responsivo e seguro. 📸💬🚀</p>
+    </td>
+   
+  </tr>
+</table>
 
 ---
  
@@ -126,10 +108,10 @@
 
 <p align="center">
   <a href="https://github.com/KelvenFontes">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=KelvenFontes&show_icons=true&count_private=true&hide_border=true&title_color=66D9EF&icon_color=66D9EF&text_color=EAEAEA&bg_color=0D1117"/>
+    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=KelvenFontes&show_icons=true&count_private=true&hide_border=true&title_color=66D9EF&icon_color=66D9EF&text_color=EAEAEA&bg_color=0D0D0D"/>
   </a>
   <a href="https://github.com/KelvenFontes">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvenFontes&layout=compact&hide_border=true&title_color=66D9EF&text_color=EAEAEA&bg_color=0D1117"/>
+    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvenFontes&layout=compact&hide_border=true&title_color=66D9EF&text_color=EAEAEA&bg_color=0D0D0D"/>
   </a>
 </p>
 
