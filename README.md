@@ -69,7 +69,7 @@
 <table>
   <tr>
     <td valign="top" width="50%" style="background-color: #161B22; color: white; padding: 20px; border-radius: 10px; border: 1px solid #222;">
-      <h2 align="center">
+      <h2 align="center" style="color: #66D9EF;">
         <a href="https://github.com/KelvenFontes/TravelSystem" style="text-decoration: none; color: #66D9EF;">TripsWise</a>
       </h2>
      <div align="center">
@@ -79,7 +79,7 @@
       <p>:man_technologist TripsWise é uma plataforma completa para explorar destinos turísticos, personalizar viagens e fazer reservas seguras...</p>
     </td>
      <td valign="top" width="50%" style="background-color: #161B22; color: white; padding: 20px; border-radius: 10px; border: 1px solid #222;">
-      <h2 align="center">
+      <h2 align="center" style="color: #66D9EF;">
         <a href="https://github.com/KelvenFontes/EverGlow" style="text-decoration: none; color: #66D9EF;">EverGlow</a>
       </h2>
       <div align="center">
@@ -91,7 +91,7 @@
   </tr>
    <tr>
     <td valign="top" width="50%" style="background-color: #161B22; color: white; padding: 20px; border-radius: 10px; border: 1px solid #222;">
-        <h2 align="center">
+        <h2 align="center" style="color: #66D9EF;">
         <a href="https://github.com/KelvenFontes/WaiterApp" style="text-decoration: none; color: #66D9EF;">WaiterApp</a>
         </h2>
         <div align="center">
@@ -101,7 +101,7 @@
         <p>:man_technologist: O WaiterApp é um sistema que aprimora o processo de pedidos em restaurantes, constituída por um aplicativo mobile para garçons realizarem pedidos, uma versão web como dashboard para a cozinha gerenciar os pedidos e uma API que integra e sincroniza os dados entre as duas plataformas.</p>
      </td>
     <td valign="top" width="50%" style="background-color: #161B22; color: white; padding: 20px; border-radius: 10px; border: 1px solid #222;">
-      <h2 align="center">
+      <h2 align="center" style="color: #66D9EF;">
       <a href="https://github.com/KelvenFontes/ReactGram" style="text-decoration: none; color: #66D9EF;">ReactGram</a>
       </h2>
       <div align="center">
