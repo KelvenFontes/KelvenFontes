@@ -62,7 +62,7 @@
 
 ---
 
-## 💻 Projetos em Destaque  
+### 💻 Projetos em Destaque  
 
 🚀 Aqui estão alguns dos meus principais projetos. Clique no nome para acessar o repositório e saber mais!  
 
