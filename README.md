@@ -120,18 +120,11 @@
 
 <p align="center"><strong>💬 Fale comigo!</strong><br>📩 Sinta-se à vontade para entrar em contato através de qualquer uma das plataformas abaixo:</p>
 <p align="center">
-  <a href="https://wa.me/5511953647573" target="_blank" style="text-decoration: none; outline: none; border: none;">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-  <a href="https://www.instagram.com/kelven.Fontes/" target="_blank" style="text-decoration: none; outline: none; border: none;">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="mailto:kelvenbentofontes@gmail.com" target="_blank" style="text-decoration: none; outline: none; border: none;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/kelvenfontes" target="_blank" style="text-decoration: none; outline: none; border: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+  <a href="https://wa.me/5511953647573?)">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
+  <a href="https://www.instagram.com/kelven.Fontes/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+  <a href="mailto:kelvenbentofontes@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+  <a href="https://www.linkedin.com/in/kelven-bento-fontes-4ab2b2210">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+</p>
 
 
 
