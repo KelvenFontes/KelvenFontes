@@ -66,45 +66,20 @@
 
 🚀 Aqui estão alguns dos meus principais projetos. Clique no nome para acessar o repositório e saber mais!  
 
-<table style="width: 100%; border-radius: 10px;">
+<table>
   <tr>
-    <td valign="top" width="50%" style="padding: 10px; border-radius: 10px;">
+    <td valign="top" width="50%" style="background-color: #161B22; color: white; padding: 20px; border-radius: 10px; border: 1px solid #222;">
       <h2 align="center">
-        <a href="https://github.com/KelvenFontes/TravelSystem" style="text-decoration: none;">
-          <span style="color: #66D9EF;">TripsWise</span>
-        </a>
+        <a href="https://github.com/KelvenFontes/TravelSystem" style="text-decoration: none; color: #66D9EF;">TripsWise</a>
       </h2>
-      <img width="500px" src="https://github.com/KelvenFontes/TravelSystem/assets/69438619/85bc744c-d70d-413a-a683-1ed2065a3a55" />
+     <div align="center">
+  <img width="500px" src="https://github.com/KelvenFontes/TravelSystem/assets/69438619/85bc744c-d70d-413a-a683-1ed2065a3a55">
+</div>
       <br><br>
       <p>👨‍💻 TripsWise é uma plataforma completa para explorar destinos turísticos, personalizar viagens e fazer reservas seguras...</p>
     </td>
   </tr>
 </table>
-
-<style>
-  @media (prefers-color-scheme: dark) {
-    table {
-      background-color: #0D1117; /* Fundo escuro no modo dark */
-    }
-    td {
-      background-color: #161B22; /* Fundo das células um pouco mais claro */
-      color: white; /* Texto branco para contraste */
-      border: 1px solid #222; /* Borda leve */
-    }
-  }
-
-  @media (prefers-color-scheme: light) {
-    table {
-      background-color: #F6F8FA; /* Fundo claro no modo light */
-    }
-    td {
-      background-color: #FFFFFF; /* Fundo das células branco */
-      color: black; /* Texto preto para contraste */
-      border: 1px solid #DDD; /* Borda leve */
-    }
-  }
-</style>
-
 
 
 ---
