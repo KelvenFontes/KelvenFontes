@@ -66,41 +66,46 @@
 
 🚀 Aqui estão alguns dos meus principais projetos. Clique no nome para acessar o repositório e saber mais!  
 
-<table>
+<table style="width: 100%; border-radius: 10px;">
   <tr>
-     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/KelvenFontes/TravelSystem">TripsWise</a></h2>
+    <td valign="top" width="50%" style="padding: 10px; border-radius: 10px;">
+      <h2 align="center">
+        <a href="https://github.com/KelvenFontes/TravelSystem" style="text-decoration: none;">
+          <span style="color: #66D9EF;">TripsWise</span>
+        </a>
+      </h2>
       <img width="500px" src="https://github.com/KelvenFontes/TravelSystem/assets/69438619/85bc744c-d70d-413a-a683-1ed2065a3a55" />
-      <br>
-      <br>
-      <p>:man_technologist: TripsWise é uma plataforma completa para explorar destinos turísticos, personalizar viagens e fazer reservas seguras. Com autenticação fácil através do Google. Venha descobrir o mundo de forma inteligente!✈️</p>
-       </td>
-      <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/KelvenFontes/EverGlow">EverGlow</a></h2>
-      <img width="500px" src="https://github.com/KelvenFontes/EverGlow/assets/69438619/6c7dbfe6-b3ad-4d20-baf5-4ec865ec8bfb" />
-      <br>
-      <br>
-      <p>:man_technologist: O EverGlow é uma aplicação que utiliza a API do Spotify para oferecer uma experiência única de descoberta e reprodução de música. Com este aplicativo, você pode explorar novas músicas, criar listas de reprodução personalizadas e curtir suas faixas favoritas. Curta sua música de forma diferente com o EverGlow!. 🎵🎧🎶</p>
+      <br><br>
+      <p>👨‍💻 TripsWise é uma plataforma completa para explorar destinos turísticos, personalizar viagens e fazer reservas seguras...</p>
     </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-        <h2 align="center"><a href="https://github.com/KelvenFontes/WaiterApp">WaiterApp</a></h2>
-        <img width="500px" src="https://github.com/KelvenFontes/WaiterApp/assets/69438619/7665e884-6861-4d8c-9467-becd0fe769f2" />
-        <br>
-        <br>
-        <p>:man_technologist: O WaiterApp é um sistema que aprimora o processo de pedidos em restaurantes, constituída por um aplicativo mobile para garçons realizarem pedidos, uma versão web como dashboard para a cozinha gerenciar os pedidos e uma API que integra e sincroniza os dados entre as duas plataformas.</p>
-     </td>
-    <td valign="top" width="50%">
-      <h2 align="center"><a href="https://github.com/KelvenFontes/ReactGram">ReactGram</a></h2>
-      <img width="500px" src="https://github.com/KelvenFontes/ReactGram/assets/69438619/0c36142e-bdc9-4338-9821-217614db9396" />
-      <br>
-      <br>
-      <p>:man_technologist: O ReactGram é um aplicativo inspirado em redes sociais, utilizando React, Node.js e MongoDB. Permite compartilhar fotos, curtir e comentar postagens, possui registro e autenticação de usuários, perfis editáveis, busca de usuários/postagens e é responsivo e seguro. 📸💬🚀</p>
-    </td>
-   
   </tr>
 </table>
+
+<style>
+  @media (prefers-color-scheme: dark) {
+    table {
+      background-color: #0D1117; /* Fundo escuro no modo dark */
+    }
+    td {
+      background-color: #161B22; /* Fundo das células um pouco mais claro */
+      color: white; /* Texto branco para contraste */
+      border: 1px solid #222; /* Borda leve */
+    }
+  }
+
+  @media (prefers-color-scheme: light) {
+    table {
+      background-color: #F6F8FA; /* Fundo claro no modo light */
+    }
+    td {
+      background-color: #FFFFFF; /* Fundo das células branco */
+      color: black; /* Texto preto para contraste */
+      border: 1px solid #DDD; /* Borda leve */
+    }
+  }
+</style>
+
+
 
 ---
  
@@ -125,7 +130,7 @@
 <a href="https://wa.me/5511953647573?)">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
 <a href="https://www.instagram.com/kelven.Fontes/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 <a href="mailto:kelvenbentofontes@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/kelven-bento-fontes-4ab2b2210">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/kelvenfontes">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
   
 </div>
 
