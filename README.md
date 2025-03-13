@@ -119,11 +119,7 @@
 
 ### 📞 Contato  
 
-<p align="center">
-  <strong>💬 Fale comigo!</strong><br>
-  📩 Sinta-se à vontade para entrar em contato através de qualquer uma das plataformas abaixo:
-</p>
-
+<p align="center"><strong>💬 Fale comigo!</strong><br>📩 Sinta-se à vontade para entrar em contato através de qualquer uma das plataformas abaixo:</p>
 <p align="center">
   <a href="https://wa.me/5511953647573" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
@@ -138,5 +134,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=66D9EF&height=100&section=footer"/>
