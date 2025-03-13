@@ -69,7 +69,7 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-  <div style="flex: 1; min-width: 400px;">
+  <div style="flex: 1; min-width: 320px;">
     <h3 align="center">
       🛫 <a href="https://github.com/KelvenFontes/TravelSystem" style="color:#66D9EF;">TripsWise</a>
     </h3>
@@ -80,7 +80,7 @@
     <p align="center"><strong style="color:#66D9EF;">📌 Tecnologias:</strong> Next.js, Node.js, TypeScript, TailwindCSS, MongoDB.</p>
   </div>
 
-  <div style="flex: 1; min-width: 400px;">
+  <div style="flex: 1; min-width: 320px;">
     <h3 align="center">
       🎵 <a href="https://github.com/KelvenFontes/EverGlow" style="color:#66D9EF;">EverGlow</a>
     </h3>
@@ -96,7 +96,7 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-  <div style="flex: 1; min-width: 400px;">
+  <div style="flex: 1; min-width: 320px;">
     <h3 align="center">
       🍽️ <a href="https://github.com/KelvenFontes/WaiterApp" style="color:#66D9EF;">WaiterApp</a>
     </h3>
@@ -107,7 +107,7 @@
     <p align="center"><strong style="color:#66D9EF;">📌 Tecnologias:</strong> React Native, Node.js, MongoDB, WebSockets.</p>
   </div>
 
-  <div style="flex: 1; min-width: 400px;">
+  <div style="flex: 1; min-width: 320px;">
     <h3 align="center">
       📸 <a href="https://github.com/KelvenFontes/ReactGram" style="color:#66D9EF;">ReactGram</a>
     </h3>
