@@ -50,31 +50,7 @@ I work with **data analysis, dashboards, and business intelligence**, helping or
 
 🚀 Aqui estão alguns dos meus principais projetos. Clique no nome para acessar o repositório e saber mais!  
 
-<table width="100%" style="border-collapse: collapse;">
-  <tr>
-    <td valign="top" width="50%" style="background-color: #0D1117; color: white; padding: 20px; border-radius: 10px; border: 1px solid #222;">
-      <h2 align="center">
-        <a href="https://github.com/KelvenFontes/TravelSystem" style="text-decoration: none; color: #66D9EF;">TripsWise</a>
-      </h2>
-      <div align="center">
-        <img width="500px" src="https://github.com/KelvenFontes/TravelSystem/assets/69438619/85bc744c-d70d-413a-a683-1ed2065a3a55" style="background-color: transparent; border-radius: 10px;"/>
-      </div>
-      <br>
-      <p>👨‍💻 TripsWise é uma plataforma completa para explorar destinos turísticos, personalizar viagens e fazer reservas seguras...</p>
-    </td>
-    <td valign="top" width="50%" style="background-color: #0D1117; color: white; padding: 20px; border-radius: 10px; border: 1px solid #222;">
-      <h2 align="center">
-        <a href="https://github.com/KelvenFontes/EverGlow" style="text-decoration: none; color: #66D9EF;">EverGlow</a>
-      </h2>
-      <div align="center">
-        <img width="500px" src="https://github.com/KelvenFontes/EverGlow/assets/69438619/6c7dbfe6-b3ad-4d20-baf5-4ec865ec8bfb" style="background-color: transparent; border-radius: 10px;"/>
-      </div>
-      <br>
-      <p>👨‍💻 O EverGlow é uma aplicação que utiliza a API do Spotify para oferecer uma experiência única de descoberta e reprodução de música...</p>
-    </td>
-  </tr>
 
-<<<<<<< HEAD
 <table align="center">
   <tr>
     <td width="50%" align="center">
@@ -116,31 +92,6 @@ I work with **data analysis, dashboards, and business intelligence**, helping or
   </div>
 
 </div>
-=======
-  <tr>
-    <td valign="top" width="50%" style="background-color: #0D1117; color: white; padding: 20px; border-radius: 10px; border: 1px solid #222;">
-      <h2 align="center">
-        <a href="https://github.com/KelvenFontes/WaiterApp" style="text-decoration: none; color: #66D9EF;">WaiterApp</a>
-      </h2>
-      <div align="center">
-        <img width="500px" src="https://github.com/KelvenFontes/WaiterApp/assets/69438619/7665e884-6861-4d8c-9467-becd0fe769f2" style="background-color: transparent; border-radius: 10px;"/>
-      </div>
-      <br>
-      <p>👨‍💻 O WaiterApp é um sistema que aprimora o processo de pedidos em restaurantes...</p>
-    </td>
-    <td valign="top" width="50%" style="background-color: #0D1117; color: white; padding: 20px; border-radius: 10px; border: 1px solid #222;">
-      <h2 align="center">
-        <a href="https://github.com/KelvenFontes/ReactGram" style="text-decoration: none; color: #66D9EF;">ReactGram</a>
-      </h2>
-      <div align="center">
-        <img width="500px" src="https://github.com/KelvenFontes/ReactGram/assets/69438619/0c36142e-bdc9-4338-9821-217614db9396" style="background-color: transparent; border-radius: 10px;"/>
-      </div>
-      <br>
-      <p>👨‍💻 O ReactGram é um aplicativo inspirado em redes sociais, utilizando React, Node.js e MongoDB...</p>
-    </td>
-  </tr>
-</table>
->>>>>>> 971d6cb72add5c4951875b8db3f5c00e9433e43c
 
 ---
  
@@ -158,7 +109,6 @@ I work with **data analysis, dashboards, and business intelligence**, helping or
 
 ### **📫 Contact**  
 
-<<<<<<< HEAD
 <p align="center">
   <strong>💬 Let's Connect</strong><br>
 </p>
@@ -177,17 +127,5 @@ I work with **data analysis, dashboards, and business intelligence**, helping or
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 </p>
-=======
-<p align="center"><strong>💬 Fale comigo!</strong><br>📩 Sinta-se à vontade para entrar em contato através de qualquer uma das plataformas abaixo:</p>
-
-<div align="center">
-
-<a href="https://wa.me/5511953647573?)">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
-<a href="https://www.instagram.com/kelven.Fontes/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-<a href="mailto:kelvenbentofontes@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/kelvenfontes">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-  
-</div>
->>>>>>> 971d6cb72add5c4951875b8db3f5c00e9433e43c
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=66D9EF&height=100&section=footer"/>
