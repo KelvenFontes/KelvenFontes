@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=66D9EF&height=150&section=header&text=Welcome+to+my+GitHub!&fontSize=35&fontColor=F0F0F0&fontAlignY=30"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=600&color=66D9EF&center=true&vCenter=true&width=1000&lines=Hello!+I+am+Kelven+Fontes.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=600&color=66D9EF&center=true&vCenter=true&width=1000&lines=Hello,+I+am+Kelven+Fontes.)](https://git.io/typing-svg)
 
 Data Analyst focused on turning data into actionable insights.
 ---
