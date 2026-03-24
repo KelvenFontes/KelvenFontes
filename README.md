@@ -54,44 +54,15 @@ I work with **data analysis, dashboards, and business intelligence**, helping or
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <h3>🛫 <a href="https://github.com/KelvenFontes/TravelSystem" style="color:#66D9EF;">TripsWise</a></h3>
-      <a href="https://github.com/KelvenFontes/TravelSystem">
-        <img width="90%" src="https://github.com/KelvenFontes/TravelSystem/assets/69438619/85bc744c-d70d-413a-a683-1ed2065a3a55"/>
-      </a>
-      <p>✈️ <strong style="color:#66D9EF;">TripsWise</strong> é uma plataforma para explorar destinos, personalizar roteiros e realizar reservas.</p>
-      <p><strong style="color:#66D9EF;">📌 Tecnologias:</strong> Next.js, Node.js, TypeScript, TailwindCSS, MongoDB.</p>
+      <h3>🚖 <a href="https://app.powerbi.com/view?r=eyJrIjoiMjkwYzUyYjAtOTdkMy00NTgwLTlhMWUtN2M2MWZkOGM2Njk0IiwidCI6IjVlYjdlNmFiLWY5MzAtNDFiMC1hZTNjLTQ4Yzg2MjYxZGNhNCJ9">Uber Dashboard – Ride Analysis</a></h3>
+    <iframe title="Uber" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMjkwYzUyYjAtOTdkMy00NTgwLTlhMWUtN2M2MWZkOGM2Njk0IiwidCI6IjVlYjdlNmFiLWY5MzAtNDFiMC1hZTNjLTQ4Yzg2MjYxZGNhNCJ9" frameborder="0" allowFullScreen="true"></iframe>
+      <p>📊 Interactive Power BI dashboard developed to analyze ride volume, revenue, trip trends, and customer ratings.</p>
+      <p><strong>📌 Focus:</strong> KPI monitoring, ride behavior analysis, and business insights.</p>
+      <p><strong>🛠️ Technologies:</strong> Power BI, DAX, Data Modeling, Power Query.</p>
     </td>
   </tr>
 </table>
 
-
-<hr style="height:2px; border:none; background-color:#666; margin-top:10px; margin-bottom:10px;">
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-  <div style="flex: 1; min-width: 50px;">
-    <h3 align="center">
-      🍽️ <a href="https://github.com/KelvenFontes/WaiterApp" style="color:#66D9EF;">WaiterApp</a>
-    </h3>
-    <a href="https://github.com/KelvenFontes/WaiterApp">
-      <img width="80%" src="https://github.com/KelvenFontes/WaiterApp/assets/69438619/7665e884-6861-4d8c-9467-becd0fe769f2"/>
-    </a>
-    <p align="center">🍔 <strong style="color:#66D9EF;">WaiterApp</strong> é um sistema para restaurantes que otimiza pedidos, integrando um aplicativo para garçons e um dashboard web para a cozinha.</p>
-    <p align="center"><strong style="color:#66D9EF;">📌 Tecnologias:</strong> React Native, Node.js, MongoDB, WebSockets.</p>
-  </div>
-
-  <div style="flex: 1; min-width: 50px;">
-    <h3 align="center">
-      📸 <a href="https://github.com/KelvenFontes/ReactGram" style="color:#66D9EF;">ReactGram</a>
-    </h3>
-    <a href="https://github.com/KelvenFontes/ReactGram">
-      <img width="80%" src="https://github.com/KelvenFontes/ReactGram/assets/69438619/0c36142e-bdc9-4338-9821-217614db9396"/>
-    </a>
-    <p align="center">📷 <strong style="color:#66D9EF;">ReactGram</strong> é uma aplicação estilo rede social, onde usuários podem compartilhar fotos, curtir postagens, comentar e interagir.</p>
-    <p align="center"><strong style="color:#66D9EF;">📌 Tecnologias:</strong> React, Node.js, MongoDB, JWT, Styled-Components.</p>
-  </div>
-
-</div>
 
 ---
  
