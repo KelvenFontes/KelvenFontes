@@ -61,11 +61,6 @@ I work with **data analysis, dashboards, and business intelligence**, helping or
       <p>📊 Interactive Power BI dashboard developed to analyze ride volume, revenue, trip trends, and customer ratings.</p>
       <p><strong>📌 Focus:</strong> KPI monitoring, ride behavior analysis, and business insights.</p>
       <p><strong>🛠️ Technologies:</strong> Power BI, DAX, Data Modeling, Power Query.</p>
-      <p>
-        <a href="https://app.powerbi.com/view?r=eyJrIjoiMjkwYzUyYjAtOTdkMy00NTgwLTlhMWUtN2M2MWZkOGM2Njk0IiwidCI6IjVlYjdlNmFiLWY5MzAtNDFiMC1hZTNjLTQ4Yzg2MjYxZGNhNCJ9">
-          🔗 View Dashboard
-        </a>
-      </p>
     </td>
   </tr>
 </table>
