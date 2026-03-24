@@ -54,11 +54,15 @@ I work with **data analysis, dashboards, and business intelligence**, helping or
 <table align="center">
   <tr>
     <td width="50%" align="center">
+
       <h3>🚖 <a href="https://app.powerbi.com/view?r=eyJrIjoiMjkwYzUyYjAtOTdkMy00NTgwLTlhMWUtN2M2MWZkOGM2Njk0IiwidCI6IjVlYjdlNmFiLWY5MzAtNDFiMC1hZTNjLTQ4Yzg2MjYxZGNhNCJ9">Uber Dashboard – Ride Analysis</a></h3>
+
     <iframe title="Uber" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMjkwYzUyYjAtOTdkMy00NTgwLTlhMWUtN2M2MWZkOGM2Njk0IiwidCI6IjVlYjdlNmFiLWY5MzAtNDFiMC1hZTNjLTQ4Yzg2MjYxZGNhNCJ9" frameborder="0" allowFullScreen="true"></iframe>
+
       <p>📊 Interactive Power BI dashboard developed to analyze ride volume, revenue, trip trends, and customer ratings.</p>
       <p><strong>📌 Focus:</strong> KPI monitoring, ride behavior analysis, and business insights.</p>
       <p><strong>🛠️ Technologies:</strong> Power BI, DAX, Data Modeling, Power Query.</p>
+      
     </td>
   </tr>
 </table>
