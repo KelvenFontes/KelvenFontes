@@ -52,7 +52,7 @@ I work with **data analysis, dashboards, and business intelligence**, helping or
 
 <div align="center">
 
-<div style="display: inline-block; width: 45%; min-width: 300px; vertical-align: top; margin: 10px;">
+<div style="display: inline-block; width: 40%; min-width: 280px; vertical-align: top; margin: 10px;">
 
 <h3>🚖 <a href="https://app.powerbi.com/view?r=eyJrIjoiMjkwYzUyYjAtOTdkMy00NTgwLTlhMWUtN2M2MWZkOGM2Njk0IiwidCI6IjVlYjdlNmFiLWY5MzAtNDFiMC1hZTNjLTQ4Yzg2MjYxZGNhNCJ9">
 Uber Dashboard – Ride Analysis
@@ -72,7 +72,7 @@ Uber Dashboard – Ride Analysis
 
 </div>
 
-<div style="display: inline-block; width: 45%; min-width: 300px; vertical-align: top; margin: 10px;">
+<div style="display: inline-block; width: 40%; min-width: 280px; vertical-align: top; margin: 10px;">
 
 <h3>☕ <a href="https://app.powerbi.com/view?r=eyJrIjoiMDJmYzYyYzEtNDUwZC00N2M4LWExMDEtOTQ2MGQwMmI5Y2UzIiwidCI6IjVlYjdlNmFiLWY5MzAtNDFiMC1hZTNjLTQ4Yzg2MjYxZGNhNCJ9">
 Coffee Sales Dashboard – Business Analysis
