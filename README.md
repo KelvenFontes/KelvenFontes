@@ -50,20 +50,53 @@ I work with **data analysis, dashboards, and business intelligence**, helping or
 
 🚀 Aqui estão alguns dos meus principais projetos. Clique no nome para acessar o repositório e saber mais!  
 
+<div align="center">
 
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <h3>🚖 <a href="https://app.powerbi.com/view?r=eyJrIjoiMjkwYzUyYjAtOTdkMy00NTgwLTlhMWUtN2M2MWZkOGM2Njk0IiwidCI6IjVlYjdlNmFiLWY5MzAtNDFiMC1hZTNjLTQ4Yzg2MjYxZGNhNCJ9">Uber Dashboard – Ride Analysis</a></h3>
-      <a href="https://app.powerbi.com/view?r=eyJrIjoiMjkwYzUyYjAtOTdkMy00NTgwLTlhMWUtN2M2MWZkOGM2Njk0IiwidCI6IjVlYjdlNmFiLWY5MzAtNDFiMC1hZTNjLTQ4Yzg2MjYxZGNhNCJ9">
-        <img width="90%" src="/image/DashboardUber.png" alt="Uber Dashboard Preview"/>
-      </a>
-      <p>📊 Interactive Power BI dashboard developed to analyze ride volume, revenue, trip trends, and customer ratings.</p>
-      <p><strong>📌 Focus:</strong> KPI monitoring, ride behavior analysis, and business insights.</p>
-      <p><strong>🛠️ Technologies:</strong> Power BI, DAX, Data Modeling, Power Query.</p>
-    </td>
-  </tr>
-</table>
+<div style="display: inline-block; width: 45%; min-width: 300px; vertical-align: top; margin: 10px;">
+
+<h3>🚖 <a href="https://app.powerbi.com/view?r=eyJrIjoiMjkwYzUyYjAtOTdkMy00NTgwLTlhMWUtN2M2MWZkOGM2Njk0IiwidCI6IjVlYjdlNmFiLWY5MzAtNDFiMC1hZTNjLTQ4Yzg2MjYxZGNhNCJ9">
+Uber Dashboard – Ride Analysis
+</a></h3>
+
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMjkwYzUyYjAtOTdkMy00NTgwLTlhMWUtN2M2MWZkOGM2Njk0IiwidCI6IjVlYjdlNmFiLWY5MzAtNDFiMC1hZTNjLTQ4Yzg2MjYxZGNhNCJ9">
+<img width="90%" src="/image/DashboardUber.png"/>
+</a>
+
+<p>📊 Interactive dashboard for analyzing ride volume, revenue trends, trip patterns, and customer ratings.</p>
+
+<p><strong>📌 Focus:</strong> KPI monitoring, ride behavior analysis, and business insights.</p>
+
+<p><strong>📈 Key Insights:</strong> Peak demand hours, revenue distribution, trip frequency trends, and customer rating patterns.</p>
+
+<p><strong>🛠️ Technologies:</strong> Power BI, DAX, Power Query, Data Modeling</p>
+
+</div>
+
+<div style="display: inline-block; width: 45%; min-width: 300px; vertical-align: top; margin: 10px;">
+
+<h3>☕ <a href="https://app.powerbi.com/view?r=eyJrIjoiMDJmYzYyYzEtNDUwZC00N2M4LWExMDEtOTQ2MGQwMmI5Y2UzIiwidCI6IjVlYjdlNmFiLWY5MzAtNDFiMC1hZTNjLTQ4Yzg2MjYxZGNhNCJ9">
+Coffee Sales Dashboard – Business Analysis
+</a></h3>
+
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMDJmYzYyYzEtNDUwZC00N2M4LWExMDEtOTQ2MGQwMmI5Y2UzIiwidCI6IjVlYjdlNmFiLWY5MzAtNDFiMC1hZTNjLTQ4Yzg2MjYxZGNhNCJ9">
+<img width="90%" src="/image/DashboardCoffee.png"/>
+</a>
+
+<p>📊 Interactive Power BI dashboard built to analyze coffee sales performance, customer behavior, and product trends using a real-world dataset.</p>
+
+<p><strong>📂 Dataset:</strong> 
+<a href="https://www.kaggle.com/datasets/ahmedabbas757/coffee-sales/" target="_blank">Kaggle Dataset</a>
+</p>
+
+<p><strong>📌 Focus:</strong> Sales performance, product analysis, and customer insights.</p>
+
+<p><strong>📈 Key Insights:</strong> Revenue trends, top-selling products, regional performance, and category distribution.</p>
+
+<p><strong>🛠️ Technologies:</strong> Power BI, DAX, Data Modeling, Power Query.</p>
+
+</div>
+
+</div>
 
 
 ---
